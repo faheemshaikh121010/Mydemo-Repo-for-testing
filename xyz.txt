@@ -1,3 +1,1 @@
 hello
-
-This line should not merge with main
