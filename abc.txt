@@ -1,4 +1,0 @@
-This file should get merged with main
-Hello
-
-This line to test git revert statement
